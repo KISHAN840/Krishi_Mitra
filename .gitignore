@@ -1,0 +1,35 @@
+# Node
+node_modules/
+
+# Vite
+/dist
+
+# Env files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+
+# Misc
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# ... other ignored files
+.env.local
