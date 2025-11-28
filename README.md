@@ -40,7 +40,6 @@ Built for the **NASA Space Apps Challenge 2025**, this project combines the late
 1.  **Clone the repository:**
     ```bash
     git clone  https://github.com/KISHAN840/Krishi_Mitra.git
-    
     ```
 
 2.  **Install dependencies:**
