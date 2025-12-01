@@ -95,6 +95,6 @@ Special thanks to:
 
 ---
 
-## Authors ✍️
+## Author ✍️
 - **Kishan Maurya**
  GitHub: [@KISHAN840](https://github.com/KISHAN840)
